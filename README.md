@@ -8,5 +8,5 @@ Kirjoittelen päivityksiä kurssin kulusta ja listaan omia ajatuksia.
 <br></br>
 
 <h2>Viikko 2</h2>
--UML-mallin luontia OP-Yritysmobiilisovelluksen laskutuksesta
+-UML-mallin luontia OP-Yritysmobiilisovelluksen laskutuksesta <br></br>
 -Tutuistuimme hieman Git/GitHub/GitLab palveluihin
