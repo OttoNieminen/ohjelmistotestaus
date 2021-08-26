@@ -1,0 +1,2 @@
+# ohjelmistotestaus
+Ohjelmistotestauksen kurssi
